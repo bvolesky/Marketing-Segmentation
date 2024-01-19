@@ -2022,7 +2022,7 @@ for trait in traits:
     sns.jointplot(data=df, x=trait, y='SPENT', hue='CLUSTERS', kind='kde')
     plt.show()
 ```
-
+![png](marketing_segmentation/output_67_4.png)
 
     
 ![png](marketing_segmentation/output_67_0.png)
@@ -2044,36 +2044,6 @@ for trait in traits:
 
     
 ![png](marketing_segmentation/output_67_3.png)
-    
-
-
-
-    
-![png](marketing_segmentation/output_67_4.png)
-    
-
-
-
-    
-![png](marketing_segmentation/output_67_5.png)
-    
-
-
-
-    
-![png](marketing_segmentation/output_67_6.png)
-    
-
-
-
-    
-![png](marketing_segmentation/output_67_7.png)
-    
-
-
-
-    
-![png](marketing_segmentation/output_67_8.png)
     
 
 
